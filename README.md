@@ -1,10 +1,10 @@
 # Fandom-image-downloader
-A pair of python scripts that create a PowerShell script that will download all the images in original uncompressed state from a fandom webpage
+A pair of python scripts that creates a PowerShell script that will download all the images in bullet lists in original uncompressed state from a fandom webpage
 # Usage
 ## Preparation:
 * Install the latest version of python 3
 * Enable PowerShell script execution (Run "set-executionpolicy remotesigned" as an administrator)
-* Download the webpage you want to extract the files from, open it in an editor and remove the unnecessary parts on the top and bottom of the webpage body as they cause errors with python's character map
+* Download the webpage you want to extract the files from and place it inside the folder you unzipped the scripts to
 ## Use
 * Launch a command prompt in the folder you have the scripts at
 * Type "split.py file.html" where file.html is the name of the downloaded webpage
