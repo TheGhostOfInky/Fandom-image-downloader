@@ -6,7 +6,7 @@ Created on Tue Oct  6 01:13:34 2020
 """
 import sys
 fname = sys.argv[1]
-file = open (fname, "r", encoding='utf-8')
+file = open (fname, "r", encoding="utf-8")
 links = open ("links.txt","a")
 for line in file:
     field1 = line.split("<li><a href=")
