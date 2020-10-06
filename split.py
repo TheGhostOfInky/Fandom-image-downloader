@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  6 01:13:34 2020
 
-@author: Rodri
+@author: TheGhostOfInky
 """
 import sys
 fname = sys.argv[1]
