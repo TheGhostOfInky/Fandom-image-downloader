@@ -1,5 +1,5 @@
 # Fandom-image-downloader
-A pair of python scripts that creates a PowerShell script that will download all the images in bullet lists in original uncompressed state from a fandom webpage
+A pair of python scripts that creates a PowerShell script that will download all the images in bullet lists in original uncompressed state from a fandom webpage.<br>
 This script is designed for Windows, a Linux version is available at [Fandom-Image-Downloader-Linux](https://github.com/TheGhostOfInky/Fandom-Image-Downloader-Linux)
 # Usage
 ## Preparation:
