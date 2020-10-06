@@ -1,6 +1,6 @@
 # Fandom-image-downloader
 A pair of python scripts that create a PowerShell script that will download all the images in original uncompressed state from a fandom webpage
-# Useage
+# Usage
 ## Preparation:
 * Install latest version of python 3
 * Enable PowerShell script execution (Run "set-executionpolicy remotesigned" as an administrator)
